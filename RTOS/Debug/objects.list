@@ -1,0 +1,7 @@
+"Inc/CortexMxOS_Porting.o"
+"Inc/My_RTOS_FIFO.o"
+"Inc/Schedular.o"
+"Src/main.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f103c6tx.o"
